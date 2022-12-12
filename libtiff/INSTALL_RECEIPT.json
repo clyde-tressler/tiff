@@ -1,0 +1,65 @@
+{
+  "homebrew_version": "3.6.9-2-g5b069d3",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": null,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "lib/pkgconfig/libtiff-4.pc"
+  ],
+  "time": 1670587698,
+  "source_modified_time": 1653063197,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "jpeg-turbo",
+      "version": "2.1.4",
+      "declared_directly": true
+    },
+    {
+      "full_name": "lz4",
+      "version": "1.9.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "xz",
+      "version": "5.2.9",
+      "declared_directly": false
+    },
+    {
+      "full_name": "zstd",
+      "version": "1.5.2",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "4.4.0",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/opt/homebrew/Library/Taps/homebrew/homebrew-core/Formula/libtiff.rb",
+    "tap_git_head": "56f39efb10475bd89ef480a34e8a818092ba9270",
+    "tap": "homebrew/core"
+  },
+  "arch": "arm64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 12",
+    "cpu_family": "arm_firestorm_icestorm",
+    "xcode": "14.1",
+    "clt": "14.1.0.0.1.1665256668",
+    "preferred_perl": "5.30"
+  }
+}

@@ -1,0 +1,3 @@
+/Users/clyde/CLionProjects/tiff/cmake-build-debug/CMakeFiles/tiff.dir
+/Users/clyde/CLionProjects/tiff/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/clyde/CLionProjects/tiff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
